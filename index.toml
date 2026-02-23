@@ -7514,11 +7514,6 @@ hash = "1416c0bbab07aab5ca91b2fae8a8a6cfc48db78687c500b292885c42eb1b004c"
 metafile = true
 
 [[files]]
-file = "mods/useful-slime.pw.toml"
-hash = "77fdfc9985de9d35dbe2b049ee24ec49f408d64c8c4b1cbf51e37aaaa18cd20f"
-metafile = true
-
-[[files]]
 file = "mods/utilitarian.pw.toml"
 hash = "1e5a80c9254f6557ffbcf3692cb26f78bcf16025e51ff9a3984105338792c2cb"
 metafile = true
