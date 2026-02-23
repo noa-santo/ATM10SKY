@@ -1,22 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".idea/inspectionProfiles/Project_Default.xml"
-hash = "abb9be5f9995f7ff8674a06703363fec84297e0bed5640dc515829c1b746b043"
-
-[[files]]
-file = ".idea/misc.xml"
-hash = "06ab2c6e9c2bb8931ac5c74133ec880182a23fb12f2c6e2b81f0aaefbd17449b"
-
-[[files]]
-file = ".idea/modules.xml"
-hash = "15367715d9c3964e30192c6b6886860dd61a34f429757bdb21d080c9c49cdc60"
-
-[[files]]
-file = ".idea/workspace.xml"
-hash = "f4a00cfdd25c1847f9f0bc8aca66f17635f08ac09f6dcf3c6068403589a2c528"
-
-[[files]]
 file = "ATM10SKY.iml"
 hash = "ce1d00b72cc7e76b3e562bcc4381734e19324aa8122da7f83585bde6b94fabe7"
 
@@ -7612,9 +7596,4 @@ metafile = true
 [[files]]
 file = "resourcepacks/classic-mekanism-textures.pw.toml"
 hash = "f9a99b65e8a0535a30f60a4491ff38f0912a33c7005291f564ead23f03ceccee"
-metafile = true
-
-[[files]]
-file = "resourcepacks/smooth-font.pw.toml"
-hash = "5fa00496f9ee594cb56b9ad5a96b8b74ed46757f8615f59acaed9002b46566fe"
 metafile = true
