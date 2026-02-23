@@ -1,0 +1,13 @@
+name = "Pickle Tweaks"
+filename = "PickleTweaks-1.21.1-9.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fdd5a8ff83215b03b72abb0a27ec255809fd45ad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7397743
+project-id = 238761

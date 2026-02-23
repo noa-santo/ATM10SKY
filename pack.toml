@@ -1,0 +1,13 @@
+name = "ATM10 To the Sky"
+author = "ATMTeam"
+version = "1.9.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8afd3e6a04996972981e6394ecc1dda6ac41160183b8ff524e2e6ef9810f2d13"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.219"

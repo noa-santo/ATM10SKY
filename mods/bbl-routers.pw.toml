@@ -1,0 +1,13 @@
+name = "BBL Routers"
+filename = "routers-1.21.1-1.1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "348e0b25e53a2b2d36d5033d176412c3663ee954"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7424692
+project-id = 1334500
